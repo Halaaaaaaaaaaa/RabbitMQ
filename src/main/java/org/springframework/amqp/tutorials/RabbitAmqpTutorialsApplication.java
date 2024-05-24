@@ -14,6 +14,7 @@ public class RabbitAmqpTutorialsApplication  {
 
         SpringApplication.run(RabbitAmqpTutorialsApplication.class, args);
         logger.info("=============================================================================");
+
     }
 
 }
